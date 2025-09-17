@@ -624,10 +624,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Express.js** community for the excellent web framework
 - **Node.js** community for the robust runtime environment
 
-## 📞 Support
-
-For support, email [support@blackswan.com](mailto:support@blackswan.com) or create an issue in the repository.
-
 ---
 
 **BlackSwan RSS Feed Service** - Intelligent cryptocurrency market monitoring powered by AI.
