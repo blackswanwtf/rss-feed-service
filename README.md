@@ -1,4 +1,4 @@
-# BlackSwan RSS Feed Service
+# Black Swan RSS Feed Service
 
 [![Node.js](https://img.shields.io/badge/Node.js-18.0.0+-green.svg)](https://nodejs.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
