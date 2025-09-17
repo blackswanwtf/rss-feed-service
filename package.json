@@ -1,0 +1,41 @@
+{
+  "name": "blackswan-rss-feed-service",
+  "version": "1.0.0",
+  "description": "A comprehensive real-time RSS monitoring service for cryptocurrency market analysis using AI-powered article classification and real-time streaming",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "rss",
+    "perplexity",
+    "news-analysis",
+    "api",
+    "blackswan",
+    "test"
+  ],
+  "author": "Muhammad Bilal Motiwala",
+  "project": "Black Swan",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "helmet": "^7.1.0",
+    "express-rate-limit": "^7.1.5",
+    "compression": "^1.8.0",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1",
+    "xml2js": "^0.6.2",
+    "fs": "^0.0.1-security",
+    "firebase-admin": "^12.0.0",
+    "node-cron": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
